@@ -4,7 +4,7 @@
 
 
 int main(int argc,char **argv[]){
-	int len; //variavel que armazenaráo tamanho do array
+	int len; //variavel que armazenara o tamanho do array
 	printf("entre com o tamanho do array: "); 
 	scanf("%d",&len); //inserindo o tamanho do array
 	printf("array de %d posicoes\n", len); 
